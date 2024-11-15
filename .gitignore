@@ -1,0 +1,8 @@
+#local env files
+.env*
+
+#if not alredy tracked then
+
+#mis
+# / folder name can hide the full folder 
+
